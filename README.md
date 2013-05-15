@@ -1,4 +1,4 @@
-nm-objdump
+nm-objdump (by axel catusse)
 ==========
 
 recode of nm and objdump binaries (Fedora). both handle elf32 and elf64 format
