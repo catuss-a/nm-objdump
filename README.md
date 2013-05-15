@@ -1,7 +1,7 @@
 nm-objdump
 ==========
 
-recode of nm and objdump binaries (Fedora)
+recode of nm and objdump binaries (Fedora). both handle elf32 and elf64 format
 
 nm
 ==========
