@@ -14,11 +14,10 @@ SYNOPSIS:
 
 If no object files are listed as arguments, nm assumes the file a.out.
 
-objdump -d
+objdump -f -s
 ==========
 
 objdump displays information about one or more object files.
-objdump -d disassemble.
 
 SYNOPSIS:
 
